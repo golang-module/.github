@@ -1,4 +1,4 @@
-## Hi there 👋
+## Committed to becoming the best third-party library of golang
 
 <!--
 
