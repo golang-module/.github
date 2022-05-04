@@ -1,4 +1,5 @@
-## Committed to becoming the best third-party library of golang
+## Committed to becoming the best third-party library of golang <img src="https://emoji.slack-edge.com/T014NFWNW8J/hyper/02a58f18dc8f04f1.gif" width="22" />
+
 
 <!--
 
